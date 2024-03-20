@@ -1,2 +1,1 @@
-# BOM
-so nc BOM
+# DO NOT OPEN THIS PROGRAM that HAVE a BOM
